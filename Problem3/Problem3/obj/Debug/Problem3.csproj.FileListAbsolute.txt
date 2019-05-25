@@ -1,0 +1,6 @@
+F:\Bongo\Problem3\Problem3\bin\Debug\Problem3.exe.config
+F:\Bongo\Problem3\Problem3\bin\Debug\Problem3.exe
+F:\Bongo\Problem3\Problem3\bin\Debug\Problem3.pdb
+F:\Bongo\Problem3\Problem3\obj\Debug\Problem3.csprojResolveAssemblyReference.cache
+F:\Bongo\Problem3\Problem3\obj\Debug\Problem3.exe
+F:\Bongo\Problem3\Problem3\obj\Debug\Problem3.pdb

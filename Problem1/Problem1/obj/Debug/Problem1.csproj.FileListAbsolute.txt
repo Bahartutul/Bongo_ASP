@@ -1,0 +1,8 @@
+F:\Bongo\Problem1\Problem1\bin\Debug\Problem1.exe.config
+F:\Bongo\Problem1\Problem1\bin\Debug\Problem1.exe
+F:\Bongo\Problem1\Problem1\bin\Debug\Problem1.pdb
+F:\Bongo\Problem1\Problem1\bin\Debug\Newtonsoft.Json.dll
+F:\Bongo\Problem1\Problem1\bin\Debug\Newtonsoft.Json.xml
+F:\Bongo\Problem1\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+F:\Bongo\Problem1\Problem1\obj\Debug\Problem1.exe
+F:\Bongo\Problem1\Problem1\obj\Debug\Problem1.pdb
